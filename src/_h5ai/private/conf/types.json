@@ -71,5 +71,10 @@
     "x-pdf":            ["*.pdf"],
     "x-pres":           ["*.odp", "*.otp", "*.pps", "*.ppt", "*.pptx"],
     "x-ps":             ["*.ps"],
-    "x-psd":            ["*.psd"]
+    "x-psd":            ["*.psd"],
+    "doc":              ["*.doc", "*.docx"],
+    "xls":              ["*.xls", "*.xlsx", "*.csv"],
+    "ppt":             ["*.ppt", "*.pptx", "*.pptm", "*.ppsx"],
+    "dwg":             ["*.dwg"],
+    "dwgot":           ["*.bak", "*.dwl", "*.dwl2", "*.dwl3"]
 }
