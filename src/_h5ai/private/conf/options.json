@@ -310,7 +310,7 @@
     */
     "search": {
         "enabled": false,
-        "advanced": true,
+        "advanced": false,
         "debounceTime": 300,
         "ignorecase": true
     },
@@ -323,7 +323,7 @@
     - checkboxes: boolean, show a checkbox on mouse over item
     */
     "select": {
-        "enabled": true,
+        "enabled": false,
         "clickndrag": true,
         "checkboxes": true
     },
